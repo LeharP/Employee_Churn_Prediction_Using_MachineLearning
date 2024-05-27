@@ -11,4 +11,4 @@ The workflow involves data preprocessing steps including handling duplicate valu
 - Data preprocessing using pandas and scikit-learn
 - Implementation of various machine learning algorithms including Logistic Regression, Decision Tree, Random Forest, and XGBoost
 - Model evaluation using accuracy, precision, and recall scores
-- Saving the trained model for future use
+- Using Column Transformer and Pipeline to automate the whole process
